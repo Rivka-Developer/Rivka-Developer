@@ -1,7 +1,7 @@
 # Hi there, I'm Rivka Aviezeri 👋
 ### Full Stack Developer | Logical Thinker | Tech Enthusiast
 
-מפתחת Full Stack בעלת תפיסה לוגית מעולה ויכולת ניתוח מערכות מורכבות. מאופיינת בקליטה מהירה של טכנולוגיות חדשות, ירידה לפרטים וכתיבת קוד נקי ותקני.
+Highly logical Full Stack Developer with a strong aptitude for analyzing complex systems. Quick to master new technologies, detail-oriented, and committed to writing clean, standardized code.
 
 ---
 
@@ -17,7 +17,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 **AI & LLMs:**
-![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Claude AI](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **Cloud & Tools:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -25,5 +25,5 @@
 ---
 
 ### 📫 Connect with me:
-* [cite_start]**Email:** 0527605286@gmail.com [cite: 2]
-* [cite_start]**GitHub:** [Rivka-Developer](https://github.com/Rivka-Developer) [cite: 2]
+* **Email:** 0527605286@gmail.com
+* **GitHub:** [Rivka-Developer](https://github.com/Rivka-Developer)
