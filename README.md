@@ -1,11 +1,11 @@
-# Hi there, I'm Rivka Aviezeri 👋
+# Hi there, I'm Rivka Aviezeri 
 ### Full Stack Developer | Logical Thinker | Tech Enthusiast
 
 Highly logical Full Stack Developer with a strong aptitude for analyzing complex systems. Quick to master new technologies, detail-oriented, and committed to writing clean, standardized code.
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -27,6 +27,6 @@ Highly logical Full Stack Developer with a strong aptitude for analyzing complex
 
 ---
 
-### 📫 Connect with me:
-* **Email:** 0527605286@gmail.com
+###  Connect with me:
+ **Email:** 0527605286@gmail.com
 
