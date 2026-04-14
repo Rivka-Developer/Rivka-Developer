@@ -28,5 +28,5 @@ Highly logical Full Stack Developer with a strong aptitude for analyzing complex
 ---
 
 ###  Connect with me:
- **Email:** 0527605286@gmail.com
+ **Email:** R0527605286@gmail.com
 
